@@ -2,7 +2,7 @@
 
 This is a technical assessment as part of the [interview process](https://cocomo.ai/hiring) for Cocomo.
 
-To begin, fork this repository into a private repository, and clone it to your local machine.
+To begin, clone this repository to your local machine.
 
 ## Development
 
@@ -27,7 +27,7 @@ When showing the task list is shown, it must display the due date, and if the da
 
 ## Submission:
 
-1. Push your changes to your private repository.
+1. Push your changes to a private repository.
 2. Add `kunalgorithm` and `GeorgeL9` as collaborators.
 3. Send a link to the repository to george@cocomo.ai and kunal@cocomo.ai with the subject "Cocomo Technical Assessment Submission" for assessment.
 
