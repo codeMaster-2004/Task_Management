@@ -33,10 +33,6 @@ To do this, make a request to the [flux API on fal.ai](https://fal.ai/models/fal
 
 You may use the following API key to make the fetch request to fal.ai. 
 
-```
-FAL-KEY=6241a829-66ce-424c-8a38-41bf54fb3d05:af224af1d6d0cf38443f279e3ea19549
-```
-
 ## Submission:
 
 1. Add a new "Solution" section to this README with a description and screenshot or recording of your solution. 
