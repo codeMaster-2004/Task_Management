@@ -27,8 +27,9 @@ When showing the task list is shown, it must display the due date, and if the da
 
 ## Submission:
 
-1. Push your changes to a private repository.
-2. Add `kunalgorithm` and `GeorgeL9` as collaborators.
-3. Send a link to the repository to george@cocomo.ai and kunal@cocomo.ai with the subject "Cocomo Technical Assessment Submission" for assessment.
+1. Add a new "Solution" section to this README with a description and screenshot or recording of your solution. 
+2. Push your changes to a private repository.
+3. Add `kunalgorithm` and `GeorgeL9` as collaborators.
+4. Send a link to the repository to george@cocomo.ai and kunal@cocomo.ai in your current email thread with us. If you have not yet emailed us, send a new email with the subject "Cocomo Technical Assessment Submission".
 
-Thanks for your time and effort, we'll be in touch soon!
+Thanks for your time and effort. We'll be in touch soon!
