@@ -31,7 +31,7 @@ When a todo is created, generate an image to visualize the task to be done.
 
 To do this, make a request to the [flux API on fal.ai](https://fal.ai/models/fal-ai/flux/dev/playground) and display the returned image to the user within the appropriate todo item. While the image is being generating, indicate a loading state.
 
-You may use the following API key to make the fetch request to fal.ai. 
+You will be provided an API key to make the fetch request to fal.ai. 
 
 ## Submission:
 
