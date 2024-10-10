@@ -17,13 +17,25 @@ npm run dev
 
 ## Task:
 
-Modify the code to add support for due dates.
+Modify the code to add support for due dates and image previews.
 
-### Requirements:
+### Part 1: Due Dates 
 
 When a new task is created, users should be able to set a due date.
 
 When showing the task list is shown, it must display the due date, and if the date is past the current time, the due date should be in red.
+
+### Part 2: Image Generation 
+
+When a todo is created, generate an image to visualize the task to be done. 
+
+To do this, make a request to the [flux API on fal.ai](https://fal.ai/models/fal-ai/flux/dev/playground) and display the returned image to the user within the appropriate todo item. While the image is being generating, indicate a loading state.
+
+You may use the following API key to make the fetch request to fal.ai. 
+
+```
+FAL-KEY=6241a829-66ce-424c-8a38-41bf54fb3d05:af224af1d6d0cf38443f279e3ea19549
+```
 
 ## Submission:
 
