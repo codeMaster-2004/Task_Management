@@ -2,6 +2,9 @@
 
 This is a technical assessment as part of the [interview process](https://cocomo.ai/hiring) for Cocomo.
 
+> [!IMPORTANT]  
+> You will need a `FAL-KEY` API key to complete the technical assessment portion of the application. You will have received one alongside this application. Please message us on LinkedIn if you need one or sign up for a key at https://fal.ai  
+
 To begin, clone this repository to your local machine.
 
 ## Development
