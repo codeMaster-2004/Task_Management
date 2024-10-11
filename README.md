@@ -38,7 +38,7 @@ You will be provided an API key to make the fetch request to fal.ai.
 1. Add a new "Solution" section to this README with a description and screenshot or recording of your solution. 
 2. Push your changes to a private repository.
 3. Add `kunalgorithm` and `GeorgeL9` as collaborators.
-4. Send a link to the repository to george@cocomo.ai and kunal@cocomo.ai with the subject "Cocomo Technical Assessment Submission".
+4. Submit the link to the [Application Google Form](https://cocomo.ai/apply). If you have already previously completed the form, send a link to the repository to george@cocomo.ai and kunal@cocomo.ai with the subject "Cocomo Technical Assessment Submission".
 5. Message [Kunal on LinkedIn](https://www.linkedin.com/in/kunalsh22/) with a link of your submission. 
 
 Thanks for your time and effort. We'll be in touch soon!
