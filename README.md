@@ -1,9 +1,9 @@
-## Cocomo Technical Assessment
+## Soma Capital Technical Assessment
 
-This is a technical assessment as part of the [interview process](https://cocomo.ai/hiring) for Cocomo.
+This is a technical assessment as part of the interview process for Soma Capital.
 
 > [!IMPORTANT]  
-> You will need a `FAL-KEY` API key to complete the technical assessment portion of the application. You will have received one alongside this application. Please message us on LinkedIn if you need one or sign up for a key at https://fal.ai  
+> You will need a Pexels API key to complete the technical assessment portion of the application. You can sign up for a free API key at https://www.pexels.com/api/  
 
 To begin, clone this repository to your local machine.
 
@@ -20,7 +20,7 @@ npm run dev
 
 ## Task:
 
-Modify the code to add support for due dates and image previews.
+Modify the code to add support for due dates, image previews, and task dependencies.
 
 ### Part 1: Due Dates 
 
@@ -30,18 +30,26 @@ When showing the task list is shown, it must display the due date, and if the da
 
 ### Part 2: Image Generation 
 
-When a todo is created, generate an image to visualize the task to be done. 
+When a todo is created, search for and display a relevant image to visualize the task to be done. 
 
-To do this, make a request to the [flux API on fal.ai](https://fal.ai/models/fal-ai/flux/dev/playground) and display the returned image to the user within the appropriate todo item. While the image is being generating, indicate a loading state.
+To do this, make a request to the [Pexels API](https://www.pexels.com/api/) using the task description as a search query. Display the returned image to the user within the appropriate todo item. While the image is being loaded, indicate a loading state.
 
-You will be provided an API key to make the fetch request to fal.ai. 
+You will need to sign up for a free Pexels API key to make the fetch request. 
+
+### Part 3: Task Dependencies
+
+Implement a task dependency system that allows tasks to depend on other tasks. The system must:
+
+1. Allow tasks to have multiple dependencies
+2. Prevent circular dependencies
+3. Show the critical path
+4. Calculate the earliest possible start date for each task based on its dependencies
+5. Visualize the dependency graph
 
 ## Submission:
 
 1. Add a new "Solution" section to this README with a description and screenshot or recording of your solution. 
-2. Push your changes to a private repository.
-3. Add `kunalgorithm` and `GeorgeL9` as collaborators.
-4. Submit the link to the [Application Google Form](https://cocomo.ai/apply). If you have already previously completed the form, send a link to the repository to george@cocomo.ai and kunal@cocomo.ai with the subject "Cocomo Technical Assessment Submission".
-5. Message [Kunal on LinkedIn](https://www.linkedin.com/in/kunalsh22/) with a link of your submission. 
+2. Push your changes to a public GitHub repository.
+3. Submit a link to your repository in the application form.
 
 Thanks for your time and effort. We'll be in touch soon!
