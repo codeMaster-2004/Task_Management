@@ -162,8 +162,6 @@ Visit `http://localhost:3000` to see the application in action.
 
 ## Submission:
 
-1. Add a new "Solution" section to this README with a description and screenshot or recording of your solution.
-2. Push your changes to a public GitHub repository.
-3. Submit a link to your repository in the application form.
+1. https://youtu.be/c7jSVkW_0-g youtube link to the walkthrough
 
 Thanks for your time and effort. We'll be in touch soon!
